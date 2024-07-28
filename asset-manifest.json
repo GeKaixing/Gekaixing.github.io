@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.2ce6f722.css",
-    "main.js": "./static/js/main.8a51e77e.js",
+    "main.js": "./static/js/main.cd034b9c.js",
     "static/media/head-img.svg": "./static/media/head-img.e2fcde42750c778b00b08be841d1868b.svg",
     "static/media/设置.svg": "./static/media/设置.9ee704d2c223b504bc1149c1b624c354.svg",
     "static/media/提示.svg": "./static/media/提示.ef613b69d2ed1002442f86cd71d7a0e0.svg",
@@ -19,10 +19,10 @@
     "static/media/分享.svg": "./static/media/分享.a9086f3d5e457de8606ad14f80ebb58f.svg",
     "static/media/左_left.svg": "./static/media/左_left.4f423a3a7cb6ebce990267cb2ceb6e14.svg",
     "main.2ce6f722.css.map": "./static/css/main.2ce6f722.css.map",
-    "main.8a51e77e.js.map": "./static/js/main.8a51e77e.js.map"
+    "main.cd034b9c.js.map": "./static/js/main.cd034b9c.js.map"
   },
   "entrypoints": [
     "static/css/main.2ce6f722.css",
-    "static/js/main.8a51e77e.js"
+    "static/js/main.cd034b9c.js"
   ]
 }
