@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.2ce6f722.css",
-    "main.js": "./static/js/main.cd034b9c.js",
+    "main.css": "./static/css/main.763c413b.css",
+    "main.js": "./static/js/main.29196586.js",
+    "static/media/大脑.svg": "./static/media/大脑.f43da8fd3cb1a8e2020c768f2d696cc0.svg",
     "static/media/head-img.svg": "./static/media/head-img.e2fcde42750c778b00b08be841d1868b.svg",
     "static/media/设置.svg": "./static/media/设置.9ee704d2c223b504bc1149c1b624c354.svg",
     "static/media/提示.svg": "./static/media/提示.ef613b69d2ed1002442f86cd71d7a0e0.svg",
@@ -18,11 +19,11 @@
     "static/media/星星.svg": "./static/media/星星.c938acce4397464d6aa38a607b0d642c.svg",
     "static/media/分享.svg": "./static/media/分享.a9086f3d5e457de8606ad14f80ebb58f.svg",
     "static/media/左_left.svg": "./static/media/左_left.4f423a3a7cb6ebce990267cb2ceb6e14.svg",
-    "main.2ce6f722.css.map": "./static/css/main.2ce6f722.css.map",
-    "main.cd034b9c.js.map": "./static/js/main.cd034b9c.js.map"
+    "main.763c413b.css.map": "./static/css/main.763c413b.css.map",
+    "main.29196586.js.map": "./static/js/main.29196586.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ce6f722.css",
-    "static/js/main.cd034b9c.js"
+    "static/css/main.763c413b.css",
+    "static/js/main.29196586.js"
   ]
 }
