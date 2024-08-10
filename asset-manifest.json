@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.bd8c7540.css",
-    "main.js": "./static/js/main.ce3b8783.js",
+    "main.css": "./static/css/main.b421e3bb.css",
+    "main.js": "./static/js/main.1ca277ca.js",
     "static/css/29.ca068155.chunk.css": "./static/css/29.ca068155.chunk.css",
     "static/js/29.c3a7aa59.chunk.js": "./static/js/29.c3a7aa59.chunk.js",
     "static/css/621.665f0d64.chunk.css": "./static/css/621.665f0d64.chunk.css",
@@ -24,15 +24,15 @@
     "static/media/星星.svg": "./static/media/星星.c938acce4397464d6aa38a607b0d642c.svg",
     "static/media/分享.svg": "./static/media/分享.a9086f3d5e457de8606ad14f80ebb58f.svg",
     "static/media/左_left.svg": "./static/media/左_left.4f423a3a7cb6ebce990267cb2ceb6e14.svg",
-    "main.bd8c7540.css.map": "./static/css/main.bd8c7540.css.map",
-    "main.ce3b8783.js.map": "./static/js/main.ce3b8783.js.map",
+    "main.b421e3bb.css.map": "./static/css/main.b421e3bb.css.map",
+    "main.1ca277ca.js.map": "./static/js/main.1ca277ca.js.map",
     "29.ca068155.chunk.css.map": "./static/css/29.ca068155.chunk.css.map",
     "29.c3a7aa59.chunk.js.map": "./static/js/29.c3a7aa59.chunk.js.map",
     "621.665f0d64.chunk.css.map": "./static/css/621.665f0d64.chunk.css.map",
     "621.6983a6a9.chunk.js.map": "./static/js/621.6983a6a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd8c7540.css",
-    "static/js/main.ce3b8783.js"
+    "static/css/main.b421e3bb.css",
+    "static/js/main.1ca277ca.js"
   ]
 }
