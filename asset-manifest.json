@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.b6b98af1.css",
-    "main.js": "./static/js/main.e5819aab.js",
+    "main.css": "./static/css/main.1051a2bc.css",
+    "main.js": "./static/js/main.26953902.js",
     "static/css/29.ca068155.chunk.css": "./static/css/29.ca068155.chunk.css",
     "static/js/29.c3a7aa59.chunk.js": "./static/js/29.c3a7aa59.chunk.js",
     "static/css/621.665f0d64.chunk.css": "./static/css/621.665f0d64.chunk.css",
     "static/js/621.6983a6a9.chunk.js": "./static/js/621.6983a6a9.chunk.js",
+    "static/media/wexinapp.png": "./static/media/wexinapp.768182d5dc404b7fcc47.png",
     "static/media/github.svg": "./static/media/github.d6c987f481c7f033c36e2dcb43a83369.svg",
     "static/media/大脑.svg": "./static/media/大脑.f43da8fd3cb1a8e2020c768f2d696cc0.svg",
     "static/media/head-img.svg": "./static/media/head-img.e2fcde42750c778b00b08be841d1868b.svg",
+    "static/media/weixin-mini-app.svg": "./static/media/weixin-mini-app.e67054fd7ef68bdb4da8e1654fe22900.svg",
     "static/media/设置.svg": "./static/media/设置.9ee704d2c223b504bc1149c1b624c354.svg",
     "static/media/提示.svg": "./static/media/提示.ef613b69d2ed1002442f86cd71d7a0e0.svg",
     "static/media/搜索.svg": "./static/media/搜索.294a431159c3f60e34d300c32775aca4.svg",
@@ -25,15 +27,15 @@
     "static/media/星星.svg": "./static/media/星星.c938acce4397464d6aa38a607b0d642c.svg",
     "static/media/分享.svg": "./static/media/分享.a9086f3d5e457de8606ad14f80ebb58f.svg",
     "static/media/左_left.svg": "./static/media/左_left.4f423a3a7cb6ebce990267cb2ceb6e14.svg",
-    "main.b6b98af1.css.map": "./static/css/main.b6b98af1.css.map",
-    "main.e5819aab.js.map": "./static/js/main.e5819aab.js.map",
+    "main.1051a2bc.css.map": "./static/css/main.1051a2bc.css.map",
+    "main.26953902.js.map": "./static/js/main.26953902.js.map",
     "29.ca068155.chunk.css.map": "./static/css/29.ca068155.chunk.css.map",
     "29.c3a7aa59.chunk.js.map": "./static/js/29.c3a7aa59.chunk.js.map",
     "621.665f0d64.chunk.css.map": "./static/css/621.665f0d64.chunk.css.map",
     "621.6983a6a9.chunk.js.map": "./static/js/621.6983a6a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6b98af1.css",
-    "static/js/main.e5819aab.js"
+    "static/css/main.1051a2bc.css",
+    "static/js/main.26953902.js"
   ]
 }
