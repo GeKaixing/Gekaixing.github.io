@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.791a782a.css",
-    "main.js": "./static/js/main.8067989c.js",
+    "main.css": "./static/css/main.cb544c2c.css",
+    "main.js": "./static/js/main.28797b5d.js",
     "static/media/wexinapp.png": "./static/media/wexinapp.768182d5dc404b7fcc47.png",
     "static/media/github.svg": "./static/media/github.d6c987f481c7f033c36e2dcb43a83369.svg",
     "static/media/大脑.svg": "./static/media/大脑.f43da8fd3cb1a8e2020c768f2d696cc0.svg",
     "static/media/head-img.svg": "./static/media/head-img.e2fcde42750c778b00b08be841d1868b.svg",
     "static/media/weixin-mini-app.svg": "./static/media/weixin-mini-app.e67054fd7ef68bdb4da8e1654fe22900.svg",
+    "static/media/添加视频.svg": "./static/media/添加视频.80f105cf763963a6d63b1a9f2c25a5e0.svg",
     "static/media/bilibili.svg": "./static/media/bilibili.294314bd34242778fcb127de44753da6.svg",
     "static/media/设置.svg": "./static/media/设置.9ee704d2c223b504bc1149c1b624c354.svg",
     "static/media/提示.svg": "./static/media/提示.ef613b69d2ed1002442f86cd71d7a0e0.svg",
@@ -23,12 +24,13 @@
     "static/media/添加.svg": "./static/media/添加.42a456d654678e72f44b55177097a3ff.svg",
     "static/media/星星.svg": "./static/media/星星.c938acce4397464d6aa38a607b0d642c.svg",
     "static/media/分享.svg": "./static/media/分享.a9086f3d5e457de8606ad14f80ebb58f.svg",
+    "static/media/check.svg": "./static/media/check.4145a1f944493fc1a0ac3e66c6b5868a.svg",
     "static/media/左_left.svg": "./static/media/左_left.4f423a3a7cb6ebce990267cb2ceb6e14.svg",
-    "main.791a782a.css.map": "./static/css/main.791a782a.css.map",
-    "main.8067989c.js.map": "./static/js/main.8067989c.js.map"
+    "main.cb544c2c.css.map": "./static/css/main.cb544c2c.css.map",
+    "main.28797b5d.js.map": "./static/js/main.28797b5d.js.map"
   },
   "entrypoints": [
-    "static/css/main.791a782a.css",
-    "static/js/main.8067989c.js"
+    "static/css/main.cb544c2c.css",
+    "static/js/main.28797b5d.js"
   ]
 }
